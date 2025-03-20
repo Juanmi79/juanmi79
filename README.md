@@ -1,4 +1,5 @@
 ## Hola, soy Juan Miguel👋
+![Image](https://github.com/user-attachments/assets/fbabc4c5-d973-4538-8a3e-bccc31798f33)
 
 <!--
 **Juanmi79/juanmi79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
